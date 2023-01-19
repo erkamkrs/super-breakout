@@ -1,6 +1,5 @@
 # Super Breakout Game 
-(https://github.com/erkamkrs/super-breakout/blob/master/breakout-game.png)
-
+![alt text](https://github.com/erkamkrs/super-breakout/blob/e556e780b4a1f6eebfe88d70508ab26397f1f896/breakout-game.png)
 
 ## Description
 
